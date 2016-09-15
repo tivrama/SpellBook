@@ -36,10 +36,6 @@ var getElementsByClassName = function(className) {
 
 
 
-
-
-
-
 //--take 2-------------------------------------------
 
 //ALSO WORKS
